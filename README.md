@@ -178,3 +178,5 @@ This addon draws heavy inspiration from these Unity scripts:
 ---
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+For more help, or just to hang out and see visual updates, join the [**Blue Marten Dreams Discord Server**](https://discord.gg/3JkyVWgNwH)!
